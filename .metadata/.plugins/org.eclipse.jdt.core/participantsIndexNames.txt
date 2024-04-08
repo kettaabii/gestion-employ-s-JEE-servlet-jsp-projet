@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+C:\Users\dell\Desktop\projets enaa\gestion eployee projet jEE servlet jsp crud\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3040366545.index
+\jsp-servlet-jdbc-mysql-crud-tutorial-master\src
